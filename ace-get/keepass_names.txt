@@ -1,5 +1,0 @@
-username                : a592344
-stepping_stone_password : Stepping_stone
-srvn_password           : DAS
-device_username         : adminatos           
-device_password         : old_static

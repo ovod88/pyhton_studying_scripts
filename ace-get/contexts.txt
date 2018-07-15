@@ -1,6 +1,0 @@
- Application_extranet
- APPLIS
- APPLIS-ETI
- CORE
- CSC
- MDM_ETI
