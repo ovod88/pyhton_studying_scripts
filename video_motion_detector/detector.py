@@ -33,7 +33,7 @@ while True:
         cv2.rectangle(frame, (x, y), (x+w, y+h), (0,255,0), 3)
     status_list.append(status)
 
-    status_list=status_list[-2:]
+    status_list=status_list[-2:]#Keeps memory
 
 
     if status_list[-1]==1 and status_list[-2]==0:
